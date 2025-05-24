@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @cssiddu
-- 👀 I’m interested in learning Node.Js/Java/MongoDB/Angular/ReactJs
-- 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @siddaram
+- 👀 I’m interested in working on any programming languages, specially C++, Golang, Java and Javascript
+- 🌱 I’m currently working as a software development engineer 
+- 💞️ I’m looking to collaborate on software development projects
+- 📫 How to reach me - www.linkedin.com/in/siddaram-s-b35863130
+
 
 <!---
 cssiddu/cssiddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
